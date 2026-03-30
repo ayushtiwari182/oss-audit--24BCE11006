@@ -1,0 +1,9 @@
+----------------------------------------
+ Open Source Manifesto
+----------------------------------------
+Date: 30 March 2026
+
+I use git every day, which reminds me that open source is about freedom.
+In the future, I will build app and share it freely with the world.
+
+I believe knowledge should be open and accessible to everyone.
